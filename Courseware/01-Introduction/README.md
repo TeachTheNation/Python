@@ -13,7 +13,7 @@ Most people think that computers will solve all our problems, however, computers
 **"The computer isn't stupid, it will do exactly what you tell it to. The computer is as stupid as you are."**
 
 In Teach The Nation To Code, you will hear the phrase **a computer is a stupid machine** many times.
-This is because computers will only ever do exactly what they are told to do, they cannot do any more than that by themselves.
+This is because computers will only ever do exactly what they are told to do, they cannot do any more than what you tell it to do.
 
 So then, why do we need computers?
 The answer is for two reasons: speed and accuracy.
@@ -59,6 +59,17 @@ print(pi)
 ```
 First line declares a variable ***pi*** which gets assigned a value of ***3.14159265358979323846***.
 In the next four lines, we ask Python to print to the terminal the value of the variable `pi`, now which is easier writing out the whole value of **Pi** to be printed four times, or ask computer to print the value that is assigned to the variable ***pi***. The answer seems obvious doesn't it?
+
+## Displaying information on the screen
+
+In order to get text displayed on the screen you would need to use a function called `print()`.
+
+Text that would go between the parentheses would then be displayed to the user.
+
+Example:
+```python
+print("Example text to display")
+```
 
 ## Working with variables
 
@@ -212,9 +223,11 @@ total = biology + chemistry + physics
 
 * Variable points to the location in our computer's memory where the value is stored, you gain access to the value stored by using the variables name under which the value is stored. The value stored by the variable can change.
 
-* You should always use meaningful names for variables
+* To display text on the screen use `print()` function.
 
-* If you want to get input from the user use the `input("Example text to be displayed")` function
+* You should always use meaningful names for variables.
+
+* If you want to get input from the user use the `input("Example text to be displayed")` function.
 
 ## Tutorial
 
@@ -248,13 +261,3 @@ average = total / 3
 print("Your average score is :")
 print(average)
 ```
-
-## Exercises
-
-Try to improve the program we created to allow the user to enter their own scores.
-
-<details><summary>Hint</summary>
-
-Take a look at the **Data Types** module for more information.
-
-</details>
