@@ -1,12 +1,14 @@
 # Courseware for Python
 
-This repository contains the reading material for those who attend the live sessions. Please refer to the material provided here to enhance your knowledge and clear up any doubts you may have.
+This repository contains the reading material for those who attend the live sessions. 
+Please refer to the material provided here to enhance your knowledge and clear up any doubts you may have.
 
-Contents include:
+## Contents include:
 
-1. Introduction
-2. Data types
-3. Flowcharts
-4. Conditionals
-5. Iteration
+1. [Introduction](./01-Introduction/README.md)
+2. [Data types](./02-DataTypes/README.md)
+3. [Flowcharts](./03-Flowcharts/README.md)
+4. [Conditionals](./04-Conditionals/README.md)
+5. [Iteration](./05-Iteration/README.md)
+6. [Data Structures](./06-DataStructures/README.md)
 
