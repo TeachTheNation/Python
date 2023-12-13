@@ -42,4 +42,19 @@ Break down the problem into smaller steps:
 
 Here is the flowchart designed based on the previously stated steps:
 
+![example_flow_chart](./images/example_flow_chart.png)
 
+### Second step
+
+Looking at the flow chart write the code, it should look like this:
+
+```python
+zero = 0
+num = int(input("Please enter a number: "))
+if num % 2 == zero:
+  print(num,"is even")
+else:
+  print(num,"is odd")
+```
+
+Each line of code represent a step in the flowchart.
