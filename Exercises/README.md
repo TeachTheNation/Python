@@ -84,3 +84,160 @@ while counter <=5:
 ```
 
 </details>
+
+#### Exercise 1
+
+![exercise_one](./images/ex1.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 2
+
+![exercise_two](./images/ex2.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 3
+
+![exercise_three](./images/ex3.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 4
+
+![exercise_four](./images/ex4.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 5
+
+![exercise_five](./images/ex5.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 6
+
+![exercise_six](./images/ex6.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 7
+
+![exercise_seven](./images/ex7.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 8
+
+![exercise_eight](./images/ex8.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 9
+
+![exercise_nine](./images/ex9.png)
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 10
+
+Write the Python code to display the following in the output:
+
+```
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+10101010101010101010
+```
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 11
+
+Write the Python code to display the following in the output:
+
+```
+1.
+1,2.
+1,2,3.
+1,2,3,4.
+1,2,3,4,5.
+1,2,3,4,5,6.
+1,2,3,4,5,6,7.
+1,2,3,4,5,6,7,8.
+1,2,3,4,5,6,7,8,9.
+1,2,3,4,5,6,7,8,9,10.
+```
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 12
+
+Write the Python code to display the following in the output:
+
+```
+2 x 1 = 2
+2 x 2 = 4
+2 x 3 = 6
+2 x 4 = 8
+2 x 5 = 10
+2 x 6 = 12
+2 x 7 = 14
+2 x 8 = 16
+2 x 9 = 18
+2 x 10 = 20
+```
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
+
+#### Exercise 13
+
+Write the Python code to display the following in the output:
+
+```
+Enter a number: 5
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+```
+
+<details><summary>Answer (Coming soon)</summary>
+
+</details>
